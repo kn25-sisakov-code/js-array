@@ -14,5 +14,14 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kn25-sisakov-code/js-array.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kn25-sisakov-code/js-array/issues"
+  },
+  "homepage": "https://github.com/kn25-sisakov-code/js-array#readme"
 }
